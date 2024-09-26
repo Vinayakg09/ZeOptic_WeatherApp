@@ -3,7 +3,7 @@
 =======
 # zeoptic_weather
 
-# <img width="405" alt="Screenshot 2023-05-11 at 10 13 14 AM" src="https://raw.githubusercontent.com/Vinayakg09/ZeOptic_WeatherApp/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-26%20at%2018.01.43.png">
+# <img width="405" src="https://raw.githubusercontent.com/Vinayakg09/ZeOptic_WeatherApp/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-26%20at%2018.01.43.png"> # <img width="405" src="https://raw.githubusercontent.com/Vinayakg09/ZeOptic_WeatherApp/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-26%20at%2018.01.53.png"> 
 
 
 
